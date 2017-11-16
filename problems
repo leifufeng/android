@@ -1,0 +1,32 @@
+Error:A problem occurred configuring project ':app'.
+> Could not resolve all dependencies for configuration ':app:_debugApkCopy'.
+   > Could not find any version that matches com.android.support:appcompat-v7:27.+.
+     Versions that do not match:
+         26.0.0-alpha1
+         25.3.1
+         25.3.0
+         25.2.0
+         25.1.1
+         + 31 more
+     Required by:
+         project :app
+   > Could not find any version that matches com.android.support:design:27.+.
+     Versions that do not match:
+         26.0.0-alpha1
+         25.3.1
+         25.3.0
+         25.2.0
+         25.1.1
+         + 21 more
+     Required by:
+         project :app
+   > Could not find any version that matches com.android.support:support-vector-drawable:27.+.
+     Versions that do not match:
+         26.0.0-alpha1
+         25.3.1
+         25.3.0
+         25.2.0
+         25.1.1
+         + 15 more
+     Required by:
+         project :app
